@@ -8,4 +8,5 @@
     <string name="more_actions">More actions</string>
     <string name="add_new_item">Add new item</string>
     <string name="title_activity_toolbars">ToolbarsActivity</string>
+    <string name="items_screen">Items Screen</string>
 </resources>
